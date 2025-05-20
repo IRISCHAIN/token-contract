@@ -1,0 +1,18 @@
+{
+  "name": "irischain",
+  "version": "1.0.0",
+  "description": "IRIS Chain Smart Contract",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network polygon",
+    "verify": "truffle run verify IRISCHAIN --network polygon",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^16.0.0",
+    "truffle": "^5.9.0",
+    "truffle-plugin-verify": "^0.5.14"
+  }
+}
