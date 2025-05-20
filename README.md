@@ -1,7 +1,7 @@
 
-# IRIS Token Smart Contract
+# IRIS Chain Smart Contract
 
-**IRIS Token** is the native utility token of the IRIS project, implemented on the Polygon blockchain adhering to the ERC-20 standard. This repository contains the smart contract code and related documentation, providing a transparent and secure foundation for token operations and ecosystem expansion.
+**IRIS Chain** is the native utility token of the IRIS project, implemented on the Polygon blockchain adhering to the ERC-20 standard. This repository contains the smart contract code and related documentation, providing a transparent and secure foundation for token operations and ecosystem expansion.
 
 ## 🔧 Key Features
 
@@ -13,10 +13,10 @@
 
 ## 📄 Contract Information
 
-- **Contract Name**: `IRISToken`
+- **Contract Name**: `IRISChain`
 - **Token Symbol**: `IRC`
 - **Decimals**: `18`
-- **Total Supply**: `2,000,000,000 IRIS`
+- **Total Supply**: `2,000,000,000 IRC`
 - **Deployment Network**: Polygon Mainnet, BEP-20 Mainnet
 - **Contract Address**: POL : `0xf9a3e803ed270cf0cA6CD76eA40b8CC8562CF93F`, BEP20 : `0xc097bf351c102ece994dd7d60807b551c7d23d8a`
 
